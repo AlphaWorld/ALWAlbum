@@ -1,0 +1,7 @@
+
+target 'ALWAlbumDemo' do
+  # Pods for Snowball
+  # ignore all warnings from all pods
+  pod 'pop', '~> 1.0'
+  pod 'Masonry', '~> 0.6.2'
+end
